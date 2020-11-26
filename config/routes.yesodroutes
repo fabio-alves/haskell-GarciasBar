@@ -9,4 +9,5 @@
 
 / HomeR GET 
 
-/bebidas BebidaR GET POST
+/bebidas BebidaR  GET POST
+/bebidas/desc/#BebidaId DescR GET
